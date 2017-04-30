@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseImageUpload</string>
+    <string name="DownloadImage">FirebaseDownloadImage</string>
+</resources>
